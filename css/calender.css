@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 16, 2017, 3:12:29 PM
+    Author     : Dell
+*/
+
+.table {
+    margin-top: 150px;
+    width: 100%;
+    height: 550px;
+    border: 2px solid tomato;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table tr td .size {
+    width: 200px;
+    height: 30px;
+}

@@ -1,0 +1,69 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2017, 1:14:27 PM
+    Author     : Dell
+*/
+.info label {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 100px;
+}
+
+.details {
+    margin-top: 50px;
+    width: 700px;
+}
+
+.title, .des, .plabel, .phlabel {
+    float: left;
+    height: 100%;
+}
+
+.combo, .destype, .pinput, .phinput {
+    float: right;
+    height: 100%;    
+}
+
+
+.title label, .des label, .plabel label, .phlabel label {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.combo select, .destype input, .pinput input, .phinput file {
+    width: 375px;
+    height: 35px;
+    font-size: 20px;
+}
+
+.type, .price, .photo {
+    clear: both;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.description {
+    clear: both;
+    height: 160px;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    height: 50px;
+}
+
+.buttons input {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background: white;
+    font-size: 30px;
+    border: 2px solid black;
+}
+
+
